@@ -2,3 +2,6 @@ a = 'Hello python world'
 print(a)
 b = 'I love machine learning'
 c = a+b
+
+Just another repository
+Hubot here, I like Node,js and Coffee thes far superrop
