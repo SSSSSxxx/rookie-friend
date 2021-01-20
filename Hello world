@@ -1,2 +1,4 @@
 a = 'Hello python world'
 print(a)
+b = 'I love machine learning'
+c = a+b
